@@ -1,0 +1,5 @@
+Zeitstempel,Which role do you have in the experiment?,How many years of java coding experience do you have?,cpp_googled,csh_googled,How difficult was the c# task for you?,How difficult was the c++ task for you?,How many test cases did pass of the c++ coding part?,How many test cases did pass of the c# coding part?,How many time did you need for the c++ task? (in minutes),How many time did you need for the c# task? (in minutes),Could you finish the task? (c++),Could you finish the task (c#)?
+05.08.2020 09:33:08,Developer,4,4,3,2,2,3,3,35,30,Yes,Yes
+06.08.2020 16:17:53,Developer,4,13,15,5,5,2,2,120,120,No,No
+06.08.2020 16:41:22,Developer,0.5,15,8,3,4,3,4,210,180,Yes,Yes
+06.08.2020 22:26:59,Developer,1,7,11,4,3,3,0,180,00,Yes,No
